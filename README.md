@@ -2,7 +2,7 @@
 [홍정모의 따라하며 배우는 C++](https://www.inflearn.com/course/following-c-plus)
 ## Contents
 - [x] Section0. 시작해 봅시다
-- [ ] Section1. C++의 기초적인 사용법
+- [x] Section1. C++의 기초적인 사용법
 - [ ] Section2. 변수와 기본적인 자료형
 - [ ] Section3. 연산자들
 - [ ] Section4. 변수 범위와 더 다양한 변수형
