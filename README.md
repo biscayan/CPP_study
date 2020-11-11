@@ -5,7 +5,7 @@
 - [x] Section1. C++의 기초적인 사용법
 - [x] Section2. 변수와 기본적인 자료형
 - [x] Section3. 연산자들
-- [ ] Section4. 변수 범위와 더 다양한 변수형
+- [x] Section4. 변수 범위와 더 다양한 변수형
 - [ ] Section5. 흐름제어
 - [ ] Section6. 행렬,문자열,포인터,참조
 - [ ] Section7. 함수
