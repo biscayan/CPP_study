@@ -5,7 +5,7 @@
 - [x] Chapter1. 컴퓨터와 프로그래밍 언어  
 - [x] Chapter2. C++ 프로그래밍 기본  
 - [x] Chapter3. 표현식과 문장  
-- [ ] Chapter4. 조건문  
+- [x] Chapter4. 조건문  
 - [ ] Chapter5. 반복문  
 - [ ] Chapter6. 함수  
 - [ ] Chapter7. 클래스와 생성자  
