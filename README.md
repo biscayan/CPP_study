@@ -7,7 +7,7 @@
 - [x] Section3. 연산자들
 - [x] Section4. 변수 범위와 더 다양한 변수형
 - [x] Section5. 흐름제어
-- [ ] Section6. 행렬,문자열,포인터,참조
+- [x] Section6. 행렬,문자열,포인터,참조
 - [ ] Section7. 함수
 - [ ] Section8. 객체지향의 기초
 - [ ] Section9. 연산자 오버로딩
