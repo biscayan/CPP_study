@@ -13,7 +13,7 @@ double print_average(int count, ...)
 
 	va_start(list, count);
 
-	for (int arg = 0; arg < count; ++count)
+	for (int arg = 0; arg < count; ++arg)
 	{
 		sum += va_arg(list, int);
 	}
@@ -25,10 +25,10 @@ double print_average(int count, ...)
 
 int main()
 {
-	cout << print_average(1, 1, 2, 3) << endl;
-	cout << print_average(3, 1, 2, 3) << endl;
-	cout << print_average(5, 1, 2, 3, 4, 5) << endl;
-	cout << print_average(10, 1, 2, 3) << endl; // 에러발생
+	cout << print_average(1, 1, 2, 3) << endl; // 1
+	cout << print_average(3, 1, 2, 3) << endl; // 2
+	cout << print_average(5, 1, 2, 3, 4, 5) << endl; // 3
+	cout << print_average(10, 1, 2, 3) << endl; // -2.55111e+08, 에러발생
 
 	return 0;
 }
