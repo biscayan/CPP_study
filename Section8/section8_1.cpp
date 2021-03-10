@@ -7,7 +7,8 @@ using namespace std;
 // data만 넣을 때는 struct를 사용하고 기능까지 넣을 때는 class를 사용하는 것이 일반적임
 class Friend
 {
-	//access classifier (public, private, protected)
+	// access classifier (public, private, protected)
+	// struct는 accent classifier가 없음
 public:
 	string m_name;
 	int m_age;
@@ -26,6 +27,9 @@ int main()
 	// jj, kh는 Friend class의 instance임
 	Friend jj{"jackjack", 8, 100, 45.8};
 	Friend kh{"Kimich", 28, 183.2, 85};
+
+	jj.print(); // jackjack 8 100 45.8
+	kh.print(); // Kimich 28 183.2 85
 
 	return 0;
 }
