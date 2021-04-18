@@ -8,8 +8,8 @@
 - [x] Section4. 변수 범위와 더 다양한 변수형
 - [x] Section5. 흐름제어
 - [x] Section6. 행렬,문자열,포인터,참조
-- [ ] Section7. 함수
-- [ ] Section8. 객체지향의 기초
+- [x] Section7. 함수
+- [x] Section8. 객체지향의 기초
 - [ ] Section9. 연산자 오버로딩
 - [ ] Section10. 객체들 사이의 관계에 대해
 - [ ] Section11. 상속
