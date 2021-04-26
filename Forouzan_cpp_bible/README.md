@@ -8,7 +8,7 @@
 - [x] Chapter4. 조건문  
 - [x] Chapter5. 반복문  
 - [x] Chapter6. 함수  
-- [ ] Chapter7. 클래스와 생성자  
+- [x] Chapter7. 클래스와 생성자  
 - [ ] Chapter8. 배열  
 - [ ] Chapter9. 참조, 포인터, 메모리 관리  
 - [ ] Chapter10. 문자열  
