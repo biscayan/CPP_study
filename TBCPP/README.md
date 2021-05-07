@@ -10,7 +10,7 @@
 - [x] Section6. 행렬,문자열,포인터,참조
 - [x] Section7. 함수
 - [x] Section8. 객체지향의 기초
-- [ ] Section9. 연산자 오버로딩
+- [x] Section9. 연산자 오버로딩
 - [ ] Section10. 객체들 사이의 관계에 대해
 - [ ] Section11. 상속
 - [ ] Section12. 가상 함수들
