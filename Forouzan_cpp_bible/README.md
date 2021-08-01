@@ -11,7 +11,7 @@
 - [x] Chapter7. 클래스와 생성자  
 - [x] Chapter8. 배열  
 - [x] Chapter9. 참조, 포인터, 메모리 관리  
-- [ ] Chapter10. 문자열  
+- [x] Chapter10. 문자열  
 ## 객체 지향편
 - [ ] Chapter11. 클래스 간의 관계  
 - [ ] Chapter12. 다형성  
