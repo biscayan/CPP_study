@@ -12,7 +12,7 @@
 - [x] Section8. 객체지향의 기초
 - [x] Section9. 연산자 오버로딩
 - [x] Section10. 객체들 사이의 관계에 대해
-- [ ] Section11. 상속
+- [x] Section11. 상속
 - [ ] Section12. 가상 함수들
 - [ ] Section13. 템플릿
 - [ ] Section14. 예외 처리
