@@ -13,7 +13,7 @@
 - [x] Section9. 연산자 오버로딩
 - [x] Section10. 객체들 사이의 관계에 대해
 - [x] Section11. 상속
-- [ ] Section12. 가상 함수들
+- [x] Section12. 가상 함수들
 - [ ] Section13. 템플릿
 - [ ] Section14. 예외 처리
 - [ ] Section15. 의미론적 이동과 스마트 포인터
