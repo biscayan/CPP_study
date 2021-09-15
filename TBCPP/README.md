@@ -14,7 +14,7 @@
 - [x] Section10. 객체들 사이의 관계에 대해
 - [x] Section11. 상속
 - [x] Section12. 가상 함수들
-- [ ] Section13. 템플릿
+- [x] Section13. 템플릿
 - [ ] Section14. 예외 처리
 - [ ] Section15. 의미론적 이동과 스마트 포인터
 - [ ] Section16. 표준 템플릿 라이브러리
