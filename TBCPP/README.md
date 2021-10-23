@@ -15,7 +15,7 @@
 - [x] Section11. 상속
 - [x] Section12. 가상 함수들
 - [x] Section13. 템플릿
-- [ ] Section14. 예외 처리
+- [x] Section14. 예외 처리
 - [ ] Section15. 의미론적 이동과 스마트 포인터
 - [ ] Section16. 표준 템플릿 라이브러리
 - [ ] Section17. std::string 문자열 클래스
