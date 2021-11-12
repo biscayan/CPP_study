@@ -18,7 +18,7 @@
 - [x] Section14. 예외 처리
 - [x] Section15. 의미론적 이동과 스마트 포인터
 - [x] Section16. 표준 템플릿 라이브러리
-- [ ] Section17. std::string 문자열 클래스
+- [x] Section17. std::string 문자열 클래스
 - [ ] Section18. 입력과 출력
 - [ ] Section19. 모던 C++ 필수 요소들
 - [ ] Section20. 중급 프로그래머들의 상식 
